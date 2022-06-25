@@ -10,3 +10,5 @@ TABLE OF CONTENTS
 `Pokemon Sword & Shield` -> https://github.com/lGodHatesMel/Shiny-Ditto-Bot-Wiki/blob/main/wiki/PokemonSword%26Shield.md
 
 `Pokemon BDSP` -> https://github.com/lGodHatesMel/Shiny-Ditto-Bot-Wiki/blob/main/wiki/PokemonBDSP.md
+
+`Event Pokemon Trades Via NickNames` -> 
