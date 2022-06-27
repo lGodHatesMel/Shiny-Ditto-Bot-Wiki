@@ -7,3 +7,5 @@
 `Request Trade Shiny Eggs` -> https://github.com/lGodHatesMel/Shiny-Ditto-Bot-Wiki/blob/main/wiki/SWSH/SWSH-EggRequest.md
 
 `Cloning` (Pokemon SWSH only) -> 
+
+`Seed Checking` -> 
