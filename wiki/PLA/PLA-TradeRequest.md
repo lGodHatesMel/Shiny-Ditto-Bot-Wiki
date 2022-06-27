@@ -1,3 +1,5 @@
+# PLA Trade Request
+
 **NOTES**
 PLA uses different kind of Poke Balls.
 The Pokeballs in PLA are called (LAPoke, LAGreat, LAUltra, Gigaton)

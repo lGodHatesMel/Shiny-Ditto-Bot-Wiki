@@ -1,7 +1,9 @@
-**Pokemon Sword & Shield**
+# Pokemon Sword & Shield
+
+`Trade Request` -> 
 
 `Item Trade` -> https://github.com/lGodHatesMel/Shiny-Ditto-Bot-Wiki/blob/main/wiki/SWSH/SWSH-ItemTrade.md
 
-`Request Trade Shiny Eggs` ->
+`Request Trade Shiny Eggs` -> https://github.com/lGodHatesMel/Shiny-Ditto-Bot-Wiki/blob/main/wiki/SWSH/SWSH-EggRequest.md
 
-`Cloning` -> 
+`Cloning` (Pokemon SWSH only) -> 

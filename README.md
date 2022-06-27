@@ -11,11 +11,8 @@ TABLE OF CONTENTS
 
 `Pokemon BDSP` -> https://github.com/lGodHatesMel/Shiny-Ditto-Bot-Wiki/blob/main/wiki/PokemonBDSP.md
 
-`Event Pokemon Trades Via NickNames` -> https://github.com/lGodHatesMel/Shiny-Ditto-Bot-Wiki/blob/main/wiki/EventNickNamesTrades.md
+`Event Pokemon Trades Via NickNames` (SWSH Only) -> 
 
+`Other Commands` -> 
 
-
-**How to cancel your trade and clear yourself from the Queue**
-SWSH - `!swshqc`
-BDSP - `!bdspqc`
-PLA - `!plaqc`
+`Special Request` ->

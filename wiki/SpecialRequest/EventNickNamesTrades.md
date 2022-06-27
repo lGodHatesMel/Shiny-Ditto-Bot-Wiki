@@ -1,3 +1,5 @@
+# Event Pokemon Via Nicknames
+
 **NOTES**
 
 To uses get these you need to go and catch a wild Pokémon and give it the nickname of what ever Event Pokémon it is you want. So for example if you want the "Event Shiny Moltres-Galor" you need to catch a Pokémon and nick name it "plzmol" then go to the go to do a Link Trade and enter in the Random Distribution trade code (currently 0555-6749) then trade that Pokémon with that nickname and you will receive the Event Pokémon you wanted. 

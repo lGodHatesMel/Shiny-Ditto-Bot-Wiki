@@ -1,4 +1,4 @@
-***Item Trade***
+# Item Trade
 
 Just looking for certain items and don't care about the pokemon? Then you can do this. 
 
