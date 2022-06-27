@@ -1,4 +1,4 @@
-# EGG TRADES
+# Egg Trades
 
 **Example:**
 
