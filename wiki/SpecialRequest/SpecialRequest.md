@@ -1,4 +1,4 @@
-# Special Request
+# SPECIAL REQUEST
 
 *Pokemon SWSH Only*
 

@@ -1,5 +1,4 @@
-# Egg Trades
-
+# SWSH EGG TRADES
 
 **Example:**
 

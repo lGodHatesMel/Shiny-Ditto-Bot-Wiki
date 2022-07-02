@@ -1,1 +1,1 @@
-# SWSH Trade Request
+# SWSH TRADE REQUEST

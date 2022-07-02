@@ -1,11 +1,15 @@
-# Pokemon Sword & Shield
+# POKEMON SWORD & SHIELD
 
-[Trade Request](SWSH-TradeRequest.md) 
+[Trade Request](https://github.com/lGodHatesMel/Shiny-Ditto-Bot-Wiki/blob/main/wiki/SWSH/SWSH-TradeRequest.md) 
 
-[Item Trade](SWSH-ItemTrade.md)
+[Item Trade](https://github.com/lGodHatesMel/Shiny-Ditto-Bot-Wiki/blob/main/wiki/SWSH/SWSH-ItemTrade.md)
 
-[Request Trade Shiny Eggs](SWSH-EggRequest.md)
+[Request Trade Shiny Eggs](https://github.com/lGodHatesMel/Shiny-Ditto-Bot-Wiki/blob/main/wiki/SWSH/SWSH-EggRequest.md)
 
-[Cloning](SWSH-Cloning.md)
+[Cloning](https://github.com/lGodHatesMel/Shiny-Ditto-Bot-Wiki/blob/main/wiki/SWSH/SWSH-Cloning.md)
 
-[Seed Checking](SWSH-SeedCheck.md)
+[Seed Checking](https://github.com/lGodHatesMel/Shiny-Ditto-Bot-Wiki/blob/main/wiki/SWSH/SWSH-SeedCheck.md)
+
+[Event Pokemon Trades Via NickNames](https://github.com/lGodHatesMel/Shiny-Ditto-Bot-Wiki/blob/main/wiki/SpecialRequest/EventNickNamesTrades.md)
+
+[Special Request](https://github.com/lGodHatesMel/Shiny-Ditto-Bot-Wiki/blob/main/wiki/SpecialRequest/SpecialRequest.md)

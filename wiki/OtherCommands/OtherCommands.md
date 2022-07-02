@@ -1,4 +1,4 @@
-# Other Commands You Can Use
+# OTHER COMMANDS
 
 **How to cancel your trade and clear yourself from the Queue**
 

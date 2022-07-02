@@ -1,4 +1,4 @@
-# Item Trade
+# SWSH ITEM TRADES
 
 Just looking for certain items and don't care about the pokemon? Then you can do this. 
 

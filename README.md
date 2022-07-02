@@ -1,18 +1,18 @@
 # Shiny-Ditto-Bot-Wiki
 A wiki that shows all the thing you can do with Shiny Ditto Bot
 
-**POKEMON LEGENDS: ARCEUS**
+**CURRENT GAMES THAT THE BOT SUPPORTS**
+*Pokemon Legends: Arceus*
+*Pokemon Sword & Shield*
+*Pokemon BDSP*
 
-TABLE OF CONTENTS
 
-[Pokemon Legends: Arceus](PokemonLegendsArceus.md)
+**TABLE OF CONTENTS**
 
-[Pokemon Sword & Shield](PokemonSword&Shield.md)
+[Pokemon Legends: Arceus](https://github.com/lGodHatesMel/Shiny-Ditto-Bot-Wiki/blob/main/wiki/PokemonLegendsArceus.md)
 
-[Pokemon BDSP](PokemonBDSP.md)
+[Pokemon Sword & Shield](https://github.com/lGodHatesMel/Shiny-Ditto-Bot-Wiki/blob/main/wiki/PokemonSword%26Shield.md)
 
-[Event Pokemon Trades Via NickNames](EventNickNamesTrade.md)
+[Pokemon BDSP](https://github.com/lGodHatesMel/Shiny-Ditto-Bot-Wiki/blob/main/wiki/PokemonBDSP.md)
 
-[Other Commands](OtherCommands.md) 
-
-[Special Request](SpecialRequest.md)
+[Other Commands](https://github.com/lGodHatesMel/Shiny-Ditto-Bot-Wiki/blob/main/wiki/OtherCommands/OtherCommands.md)
