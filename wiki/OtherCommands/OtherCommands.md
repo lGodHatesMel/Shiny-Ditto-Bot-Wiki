@@ -6,7 +6,9 @@ SWSH - `!swshqc`
 BDSP - `!bdspqc`
 PLA - `!plaqc`
 
-**Generate Showdown Set**
+<hr>
+
+# Generate Showdown Set
 
 *(Discord Only)*
 
@@ -30,3 +32,7 @@ In addiction if you want it to generate the pokemon using this, then some other 
 `Ball: Master Ball`
 `Level: 65`
 --------------------------
+
+[Click Here for a Image Example]()
+
+<hr>
