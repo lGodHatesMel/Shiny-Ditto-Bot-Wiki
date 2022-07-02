@@ -21,17 +21,18 @@ PLA - `!plashowdown PokemonName`
 
 In addiction if you want it to generate the pokemon using this, then some other things you can do is add things like this below.
 
-`Shiny: Yes`
-`Ball: Master Ball`
-`Level: 65`
+- `Shiny: Yes`
+- `Ball: Master Ball`
+- `Level: 65`
 
 **Example:**
 --------------------------
-`!swshshowdown Charizard`
-`Shiny: Yes`
-`Ball: Master Ball`
-`Level: 65`
---------------------------
+```
+!swshshowdown Charizard
+Shiny: Yes
+Ball: Master Ball
+Level: 65
+```
 
 [Click Here for a Image Example](https://github.com/lGodHatesMel/Shiny-Ditto-Bot-Wiki/blob/main/wiki/OtherCommands/images/showdownset.png)
 
