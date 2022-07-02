@@ -36,6 +36,8 @@ Ball: Master Ball
 Level: 65
 ```
 
+<img src="images/showdownset.png" width="600">
+
 [Click Here for a Image Example](https://github.com/lGodHatesMel/Shiny-Ditto-Bot-Wiki/blob/main/wiki/OtherCommands/images/showdownset.png)
 
 <hr>
