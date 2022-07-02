@@ -10,6 +10,6 @@
 
 [Seed Checking](https://github.com/lGodHatesMel/Shiny-Ditto-Bot-Wiki/blob/main/wiki/SWSH/SWSH-SeedCheck.md)
 
-[Event Pokemon Trades Via NickNames](https://github.com/lGodHatesMel/Shiny-Ditto-Bot-Wiki/blob/main/wiki/SpecialRequest/EventNickNamesTrades.md)
+[Event Pokemon Trades Via NickNames](https://github.com/lGodHatesMel/Shiny-Ditto-Bot-Wiki/blob/main/wiki/SWSH/Special%20Request/EventNickNamesTrades.md)
 
-[Special Request](https://github.com/lGodHatesMel/Shiny-Ditto-Bot-Wiki/blob/main/wiki/SpecialRequest/SpecialRequest.md)
+[Special Request](https://github.com/lGodHatesMel/Shiny-Ditto-Bot-Wiki/blob/main/wiki/SWSH/Special%20Request/SpecialRequest.md)
