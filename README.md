@@ -5,14 +5,14 @@ A wiki that shows all the thing you can do with Shiny Ditto Bot
 
 TABLE OF CONTENTS
 
-`Pokemon Legends: Arceus` -> https://github.com/lGodHatesMel/Shiny-Ditto-Bot-Wiki/blob/main/wiki/PokemonLegendsArceus.md
+[Pokemon Legends: Arceus](PokemonLegendsArceus.md)
 
-`Pokemon Sword & Shield` -> https://github.com/lGodHatesMel/Shiny-Ditto-Bot-Wiki/blob/main/wiki/PokemonSword%26Shield.md
+[Pokemon Sword & Shield](PokemonSword&Shield.md)
 
-`Pokemon BDSP` -> https://github.com/lGodHatesMel/Shiny-Ditto-Bot-Wiki/blob/main/wiki/PokemonBDSP.md
+[Pokemon BDSP](PokemonBDSP.md)
 
-`Event Pokemon Trades Via NickNames` (SWSH Only) -> 
+[Event Pokemon Trades Via NickNames](EventNickNamesTrade.md)
 
-`Other Commands` -> 
+[Other Commands](OtherCommands.md) 
 
-`Special Request` ->
+[Special Request](SpecialRequest.md)
