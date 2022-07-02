@@ -33,6 +33,6 @@ In addiction if you want it to generate the pokemon using this, then some other 
 `Level: 65`
 --------------------------
 
-[Click Here for a Image Example]()
+[Click Here for a Image Example](https://github.com/lGodHatesMel/Shiny-Ditto-Bot-Wiki/blob/main/wiki/OtherCommands/images/showdownset.png)
 
 <hr>
