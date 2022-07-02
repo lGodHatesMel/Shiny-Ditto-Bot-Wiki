@@ -33,6 +33,6 @@ In addiction if you want it to generate the pokemon using this, then some other 
 !swshshowdown Charizard
 Shiny: Yes
 ```
-<img src="images/showdownset.png" width="350">
+<img src="images/showdownset.png" width="520">
 
 <hr>
