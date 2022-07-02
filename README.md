@@ -22,5 +22,4 @@ A wiki that shows all the thing you can do with Shiny Ditto Bot
 
 **Discord Server:** 
 
-[<img src="https://discordapp.com/api/guilds/916469484666093668/embed.png?style=banner2">]
-(https://discord.gg/UPXbvs8N65)
+[<img src="https://discordapp.com/api/guilds/916469484666093668/embed.png?style=banner2">](https://discord.gg/UPXbvs8N65)
