@@ -1,13 +1,16 @@
 # Shiny-Ditto-Bot-Wiki
 A wiki that shows all the thing you can do with Shiny Ditto Bot
 
-**CURRENT GAMES THAT THE BOT SUPPORTS**
-*Pokemon Legends: Arceus*
-*Pokemon Sword & Shield*
-*Pokemon BDSP*
+<hr>
 
+## CURRENT GAMES THAT THE BOT SUPPORTS:
+- *Pokemon Legends: Arceus*
+- *Pokemon Sword & Shield*
+- *Pokemon BDSP*
 
-**TABLE OF CONTENTS:**
+<hr>
+
+## TABLE OF CONTENTS:
 
 [Pokemon Legends: Arceus](https://github.com/lGodHatesMel/Shiny-Ditto-Bot-Wiki/blob/main/wiki/Table%20of%20Contents/PokemonLegendsArceus.md)
 

@@ -1,4 +1,4 @@
-# Pokemon Brilliant Diamond & Shining Pearl
+# POKEMON Brilliant Diamond & Shining Pearl
 
 [Trade Request](https://github.com/lGodHatesMel/Shiny-Ditto-Bot-Wiki/blob/main/wiki/BDSP/BDSP-TradeRequest.md)
 
