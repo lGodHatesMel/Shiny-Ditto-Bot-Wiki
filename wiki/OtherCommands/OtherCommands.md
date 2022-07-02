@@ -1,14 +1,16 @@
 # OTHER COMMANDS
 
-**How to cancel your trade and clear yourself from the Queue**
+## Cancel Trade / Clear yourself from the Queue
 
-SWSH - `!swshqc`
-BDSP - `!bdspqc`
-PLA - `!plaqc`
+**Note: If the bot is trying to trade with you or just starts your trade, it will not cancel it.**
+
+- SWSH - `!swshqc`
+- BDSP - `!bdspqc`
+- PLA - `!plaqc`
 
 <hr>
 
-# Generate Showdown Set
+## Generate Showdown Set
 
 *(Discord Only)*
 
