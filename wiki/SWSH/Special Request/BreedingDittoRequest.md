@@ -18,7 +18,7 @@
 Enter language name as per ALM's extra Showdown set input format.
 
 ### Nature
-<img src="images/PokemonNatures.png" width="600">
+<img src="Images/PokemonNatures.png" width="600">
 
 **Example below will result in a Japanese, 0 Atk, 0 Spe, Modest Ditto.**
 
