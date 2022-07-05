@@ -17,9 +17,9 @@
 This is helpful incase your not sure what move or ability to add to a Pokémon or just want something created for you fast.
 
 Commands for each Bot (Remember to use the proper channels for this)
-SWSH - `!swshshowdown PokemonName`
-BDSP - `!bdspshowdown PokemonName`
-PLA - `!plashowdown PokemonName`
+- SWSH - `!swshshowdown PokemonName`
+- BDSP - `!bdspshowdown PokemonName`
+- PLA - `!plashowdown PokemonName`
 
 In addiction if you want it to generate the pokemon using this, then some other things you can do is add things like this below.
 
