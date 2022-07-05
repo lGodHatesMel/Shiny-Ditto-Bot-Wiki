@@ -42,9 +42,9 @@ Shiny: Yes
 *(Discord Only)*
 
 Commands for each Bot (Remember to use the proper channels for this)
-SWSH - `!swshconvert`
-BDSP - `!bdspconvert`
-PLA - `!placonvert`
+- SWSH - `!swshconvert`
+- BDSP - `!bdspconvert`
+- PLA - `!placonvert`
 
 **Example:**
 ```
