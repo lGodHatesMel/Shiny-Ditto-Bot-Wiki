@@ -36,3 +36,23 @@ Shiny: Yes
 <img src="images/showdownset.png" width="520">
 
 <hr>
+
+### Convert a Pokémon to a showdown set or to get the `.pk8, .pb8, .pa8` file.
+
+*(Discord Only)*
+
+Commands for each Bot (Remember to use the proper channels for this)
+SWSH - `!swshconvert`
+BDSP - `!bdspconvert`
+PLA - `!placonvert`
+
+**Example:**
+```
+!placonvert Lucurio 
+Shiny: Yes 
+Alpha: Yes
+Level: 95
+```
+
+<img src="images/convert.png" width="500">
+
