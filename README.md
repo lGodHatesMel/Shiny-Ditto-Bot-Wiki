@@ -20,6 +20,8 @@ A wiki that shows all the thing you can do with Shiny Ditto Bot
 
 [Other Commands](https://github.com/lGodHatesMel/Shiny-Ditto-Bot-Wiki/blob/main/wiki/OtherCommands/OtherCommands.md)
 
+[Facts & Questions]()
+
 
 <hr>
 
