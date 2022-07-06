@@ -10,6 +10,10 @@
 
 [Seed Checking](https://github.com/lGodHatesMel/Shiny-Ditto-Bot-Wiki/blob/main/wiki/SWSH/SWSH-SeedCheck.md)
 
+[Fix PKM Name & Trainer Name]()
+
+[Request Pre-Set Pokemon]()
+
 [Event Pokemon Trades Via NickNames](https://github.com/lGodHatesMel/Shiny-Ditto-Bot-Wiki/blob/main/wiki/SWSH/Special%20Request/EventNickNamesTrades.md)
 
 [Special Request](https://github.com/lGodHatesMel/Shiny-Ditto-Bot-Wiki/blob/main/wiki/SWSH/Special%20Request/SpecialRequest.md)
