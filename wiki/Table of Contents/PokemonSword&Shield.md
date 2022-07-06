@@ -12,7 +12,7 @@
 
 [Fix PKM Name & Trainer Name]()
 
-[Request Pre-Set Pokemon]()
+[Request Pre-Set Pokemon](https://github.com/lGodHatesMel/Shiny-Ditto-Bot-Wiki/blob/main/wiki/SWSH/SWSH-PreSet-Request.md)
 
 [Event Pokemon Trades Via NickNames](https://github.com/lGodHatesMel/Shiny-Ditto-Bot-Wiki/blob/main/wiki/SWSH/Special%20Request/EventNickNamesTrades.md)
 

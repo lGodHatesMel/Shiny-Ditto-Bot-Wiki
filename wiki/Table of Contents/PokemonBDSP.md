@@ -6,4 +6,4 @@
 
 [Fix PKM Name & Trainer Name]()
 
-[Request Pre-Set Pokemon]()
+[Request Pre-Set Pokemon](https://github.com/lGodHatesMel/Shiny-Ditto-Bot-Wiki/blob/main/wiki/BDSP/BDSP-PreSet-Request.md)
