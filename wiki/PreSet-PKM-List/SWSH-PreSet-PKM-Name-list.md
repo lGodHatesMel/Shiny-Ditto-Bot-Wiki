@@ -2,36 +2,44 @@
 
 ### EVENT POKEMON NICKNAMES
 
-- Shiny Jirawiwat Clefairy: `plzjicle`
-- Crown shiny Articuno-Galar: `plzart`
-- Wild shiny Zapdos-Galar: `plzzap`
-- Armor shiny Moltres-Galar: `plzmol`
-- Movie Zarude: `plzdada`
-- Movie shiny Celebi: `plzcelebi`
-- Home shiny Zeraora: `plzzeraora`
-- PGL shiny Tapu Koko: `plzkoko`
-- PGL shiny Tapu Lele: `plzlele`
-- PGL shiny Tapu Bulu: `plzbulu`
-- PGL shiny Tapu Fini: `plzfini`
-- Eclipse shiny Solgaleo: `plzsolg`
-- Eclipse shiny Lunala: `plzluna`
-- Lancer shiny Zacian: `plzzaci`
-- Arthur shiny Zamazenta: `plzzama`
-- JP Movie shiny Genesect: `plzgene`
-- ひみつ shiny Necrozma: `plznecro`
-- Mt Tensei Marshadow: `plzmarsh`
-- JP Pokecenter shiny Diancie: `plzdian`
-- ウルトラ shiny Kyogre: `plzkyo`
-- ウルトラ shiny Groudon: `plzgro`
-- Original color Magearna: `plzmage`
+`POKEMON ~~~ NICKNAMES`
+
+- Shiny Jirawiwat Clefairy: `jiraclefairy`
+- Crown shiny Articuno-Galar: `articunog`
+- Wild shiny Zapdos-Galar: `zapdosg`
+- Armor shiny Moltres-Galar: `moltresg`
+- Movie Zarude: `zarudedada`
+- Movie shiny Celebi: `celebijungle`
+- Home shiny Zeraora: `zeraorahome`
+- PGL shiny Tapu Koko: `tapukoko`
+- PGL shiny Tapu Lele: `tapulele`
+- PGL shiny Tapu Bulu: `tapubulu`
+- PGL shiny Tapu Fini: `tapufini`
+- Eclipse shiny Solgaleo: `esolgaleo`
+- Eclipse shiny Lunala: `elunala`
+- Lancer shiny Zacian: `ezacian`
+- Arthur shiny Zamazenta: `ezamazenta`
+- JP Movie shiny Genesect: `egenesect`
+- ひみつ shiny Necrozma: `enecrozma`
+- Mt Tensei Marshadow: `mtmarshadow`
+- JP Pokecenter shiny Diancie: `ediancie`
+- ウルトラ shiny Kyogre: `ekyogre`
+- ウルトラ shiny Groudon: `egroudon`
+- Original color Magearna: `emagearna`
 - Rock Star Shiny Toxtricity: `plztoxt`
-- JP Shiny Jirachi: `plzjira`
-- PCNY Raikou (PKM Crystal): `pcnyrai`
+- JP Shiny Jirachi: `ejirachi`
+- PCNY Raikou (PKM Crystal): `pcnyraikou`
+- GAME STP Raikou: `gsraikou`
+- GAME STP Suicune: `gssuicune`
+- GAME STP Entei: `gsentei`
+- Rock Star Toxtricity: `rstoxtricity`
 
 <hr>
 
 ### OTHERS
 
-- 6IV JPN Shiny Breading Ditto: `plzbreed`
+`POKEMON ~~~ NICKNAMES`
+- 6iv JPN Shiny Breading Ditto: `dittobreed`
+- VGC 09 Milotic: `vgcmilotic`
 
 <hr>
