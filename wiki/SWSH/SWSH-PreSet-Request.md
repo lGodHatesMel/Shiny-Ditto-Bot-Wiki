@@ -1,6 +1,6 @@
 # SWSH POKEMON PRESET NAME LIST
 
-Command `!swshrequest`
+Command: `!swshrequest`
 
 Example: `!swshrequest dittobreed`
 
